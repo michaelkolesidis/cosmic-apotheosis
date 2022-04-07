@@ -1,0 +1,22 @@
+{
+  "name": "cosmic-apotheosis",
+  "version": "1.0.0",
+  "description": "Experiment using SVG and Sass.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch styles/style.scss:styles/style.min.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelkolesidis/cosmic-apotheosis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelkolesidis/cosmic-apotheosis/issues"
+  },
+  "homepage": "https://github.com/michaelkolesidis/cosmic-apotheosis#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}

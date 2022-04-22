@@ -5,7 +5,7 @@
 Experiment using SVG and Sass.
 
 
-### Source
+### Adapted from:
 https://codepen.io/robdimarzo/pen/VqjvqR
 
 

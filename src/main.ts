@@ -2,7 +2,7 @@
 
 let root = document.getElementById("root");
 
-root.innerHTML = /*html*/ `
+root!.innerHTML = /*html*/ `
 <div class="overlay"></div>
 <div class="container">
   <svg

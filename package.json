@@ -4,7 +4,9 @@
   "description": "Experiment using SVG and Sass.",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch styles/style.scss:styles/style.min.css --style compressed"
+    "sass": "sass --watch styles/style.scss:styles/style.min.css --style compressed",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
   },
   "repository": {
     "type": "git",

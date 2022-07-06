@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/michaelkolesidis/cosmic-apotheosis#readme",
   "dependencies": {
-    "node-sass": "^7.0.1"
+    "node-sass": "^7.0.1",
+    "typescript": "^4.7.4",
+    "yarn": "^1.22.19"
   }
 }
